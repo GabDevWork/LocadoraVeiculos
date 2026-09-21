@@ -20,7 +20,7 @@ Conforme as diretrizes do trabalho e a grade de avaliação, esta entrega contem
   6. Mapeamento de no mínimo 5 entidades (Veículo, Fabricante, Cliente, Aluguel e Categoria).
   7. Migração inicial (`Migrations/`) e script SQL DDL gerados pelo EF Core.
 
-*(As etapas seguintes — **Etapa 2: Implementação do Backend (APIs CRUD e 5 Filtros com Joins)**, **Etapa 3: Testes e Documentação (Swagger UI e Relatório)** e **Etapa 4: Vídeo Apresentação (Pitch)**
+*(Etapas seguintes — **Etapa 2: Implementação do Backend (APIs CRUD e 5 Filtros com Joins)**, **Etapa 3: Testes e Documentação (Swagger UI e Relatório)** e **Etapa 4: Vídeo Apresentação (Pitch)**
 
 ---
 

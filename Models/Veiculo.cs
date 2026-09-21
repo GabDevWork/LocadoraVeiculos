@@ -4,10 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace LocadoraVeiculos.Models
 {
-    /// <summary>
     /// Representa um veículo disponível para locação.
-    /// Atende às regras do item 1.1: modelo, ano de fabricação, quilometragem e vínculo com fabricante.
-    /// </summary>
     [Table("Veiculos")]
     public class Veiculo
     {

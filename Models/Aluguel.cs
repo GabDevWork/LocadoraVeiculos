@@ -3,11 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LocadoraVeiculos.Models
 {
-    /// <summary>
     /// Representa a locação de um veículo por um cliente em um período de tempo.
-    /// Atende a todas as regras do item 1.1: atrelado a cliente e veículo, período,
-    /// registro de devolução, quilometragem inicial e final, valor da diária e valor total.
-    /// </summary>
     [Table("Alugueis")]
     public class Aluguel
     {

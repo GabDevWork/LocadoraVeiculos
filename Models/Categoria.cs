@@ -4,10 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace LocadoraVeiculos.Models
 {
-    /// <summary>
     /// Representa o grupo/categoria de um veículo (ex: Econômico, Sedan Médio, SUV, Luxo).
-    /// Atende ao requisito do item 1.5 da Etapa 1 (5ª entidade do banco de dados).
-    /// </summary>
     [Table("Categorias")]
     public class Categoria
     {

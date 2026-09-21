@@ -4,10 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace LocadoraVeiculos.Models
 {
-    /// <summary>
     /// Representa o cliente locatário.
-    /// Atende à regra do item 1.1: deve ter pelo menos nome, CPF e e-mail.
-    /// </summary>
     [Table("Clientes")]
     public class Cliente
     {

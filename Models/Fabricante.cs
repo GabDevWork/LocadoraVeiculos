@@ -4,10 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace LocadoraVeiculos.Models
 {
-    /// <summary>
     /// Representa a marca/fabricante de um veículo (ex: Toyota, Ford, Fiat, Volkswagen).
-    /// Atende ao requisito do item 1.1 da Etapa 1.
-    /// </summary>
     [Table("Fabricantes")]
     public class Fabricante
     {
