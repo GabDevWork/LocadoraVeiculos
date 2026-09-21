@@ -3,15 +3,15 @@
 
 **Disciplina**: Desenvolvimento Backend / Banco de Dados  
 **Tecnologias**: C# (.NET 8.0 / C# 6+), Entity Framework Core 8, Microsoft SQL Server Express  
-**Foco da Entrega**: **Etapa 1 - Modelagem do Banco de Dados** (Avaliação: 5,0 Pontos)  
+**Foco da Entrega**: **Etapa 1 - Modelagem do Banco de Dados**
 
 ---
 
 ## 1. Escopo Desta Entrega (Etapa 1)
 
-Conforme as diretrizes do trabalho e a grade de avaliação (5,0 pontos), esta entrega contempla **exclusivamente os requisitos da Etapa 1**, mantendo o código limpo, coeso e sem antecipação prematura de artefatos das etapas futuras:
+Conforme as diretrizes do trabalho e a grade de avaliação, esta entrega contempla **os requisitos da Etapa 1**:
 
-- **Etapa 1 (Esta entrega)**:
+- **Etapa 1**:
   1. Modelo Conceitual do Banco de Dados para a locadora de veículos.
   2. Implementação das classes de entidades em C# na camada `Models/`.
   3. Definição explícita de Chaves Primárias (`[Key]`, PKs, Identity).

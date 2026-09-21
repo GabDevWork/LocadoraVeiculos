@@ -5,8 +5,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 // =========================================================================
 // ETAPA 1: MODELAGEM DO BANCO DE DADOS
-// Configuração da classe ApplicationContext para mapeamento no SQL Server
-// utilizando Entity Framework Core (Critério de Avaliação: 2,0 Pontos)
 // =========================================================================
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 

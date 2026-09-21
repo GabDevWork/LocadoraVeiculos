@@ -3,7 +3,6 @@
 Projeto desenvolvido para a disciplina de Backend e Banco de Dados (TADS).
 
 ## Escopo da Entrega: Etapa 1 - Modelagem do Banco de Dados
-Esta entrega contempla rigorosamente a **Etapa 1** conforme a grade de avaliação (5,0 pontos):
 - Modelagem de entidades na camada `Model` (Veículo, Fabricante, Cliente, Aluguel, Categoria).
 - Definição explícita de chaves primárias.
 - Definição explícita de chaves estrangeiras e integridade referencial.
