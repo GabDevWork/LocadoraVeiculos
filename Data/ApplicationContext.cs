@@ -3,11 +3,6 @@ using LocadoraVeiculos.Models;
 
 namespace LocadoraVeiculos.Data
 {
-    /// <summary>
-    /// Contexto do Entity Framework Core para o sistema de locação de veículos.
-    /// Atende diretamente ao critério de avaliação:
-    /// "Configuração da classe ApplicationContext para mapeamento das classes no banco de dados SQL Server utilizando Entity Framework".
-    /// </summary>
     public class ApplicationContext : DbContext
     {
         public ApplicationContext()
